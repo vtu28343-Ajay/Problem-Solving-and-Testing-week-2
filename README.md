@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu28343-Ajay/Problem-Solving-and-Testing-week-2/tree/master/0049-group-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu28343-Ajay/Problem-Solving-and-Testing-week-2/tree/master/1360-number-of-days-between-two-dates) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/Problem-Solving-and-Testing-week-2/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu28343-Ajay/Problem-Solving-and-Testing-week-2/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
